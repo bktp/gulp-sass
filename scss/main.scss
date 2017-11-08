@@ -1,0 +1,10 @@
+.first {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    &-second {
+        width: 100px;
+        height: 100px;
+        background-color: green;
+    }
+}
